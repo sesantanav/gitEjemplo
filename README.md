@@ -15,6 +15,11 @@ Christiaan - agregar set y get en el archivo combate.dart
 
 Gaspar - agregar set y get en el archivo astromecánico.dart
 
+Lisa - Agregar una nueva clase llamada naves.dart
+
+Cristóbal - Crear una clase de naves, por ejemplo de la serie TIE en una clase llamada tie.dart
+que herede de la clase naves.dart
+
 ## Instrucciones
 
 1. clonar el proyecto en sus equipos 
@@ -71,3 +76,4 @@ Verán que trae los cambios de sus compañeros.
 
 11. Continuar creando branchs para realizar pruebas, pero siempre desde desarrollo, subir
 estos branchs a github y desde allí realizar el merge.
+
