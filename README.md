@@ -68,3 +68,6 @@ rama a la rama de desarrollo y realizar un pull
 git pull orgin desarrollo
 
 Verán que trae los cambios de sus compañeros.
+
+11. Continuar creando branchs para realizar pruebas, pero siempre desde desarrollo, subir
+estos branchs a github y desde allí realizar el merge.
